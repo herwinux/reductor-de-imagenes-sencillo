@@ -1,0 +1,1 @@
+# reductor-de-imagenes-sencillo
